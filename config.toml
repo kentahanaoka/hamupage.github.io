@@ -11,7 +11,7 @@ languageCode = "ja-jp"
 
 [Author] # Used in authorbox
   name = "花岡"
-  bio = "github.pageとhugoを使ってます！無料でホームページを作りたい人はおすすめです！"
+  bio = "github.pageとhugoを使ってます！無料でホームページを作りたい人はおすすめですよ～"
   avatar = "img/avatar.png"
 
 [Params]
