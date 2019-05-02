@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>雑記 on hamu_page</title>
+    <link>https://kentahanaoka.github.io/hamupage.github.io/blog/tags/%E9%9B%91%E8%A8%98/</link>
+    <description>Recent content in 雑記 on hamu_page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 02 May 2019 01:05:30 +0900</lastBuildDate>
+    
+	<atom:link href="https://kentahanaoka.github.io/hamupage.github.io/blog/tags/%E9%9B%91%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>はじめまして！</title>
+      <link>https://kentahanaoka.github.io/hamupage.github.io/blog/posts/firstpost/</link>
+      <pubDate>Thu, 02 May 2019 01:05:30 +0900</pubDate>
+      
+      <guid>https://kentahanaoka.github.io/hamupage.github.io/blog/posts/firstpost/</guid>
+      <description>こんにちは！初めまして！ github.pageを使いたくてホームページを作ってみました！ 未完成だけど、僕は飽き性なので公開しちゃいます。 ゴー</description>
+    </item>
+    
+  </channel>
+</rss>
