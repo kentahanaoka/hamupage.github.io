@@ -1,11 +1,13 @@
-baseurl = "https://kentahanaoka.github.io/hamupage.github.io/"
+baseurl = "https://kentahanaoka.github.io/hamupage.github.io/blog/"
 title = "hamu_page"
-languageCode = "ja"
 paginate = "10" # Number of posts per page
 canonifyurls = true
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+publishDir = "docs"
+hasCJKLanguage = true
+languageCode = "ja-jp"
 
 [Author] # Used in authorbox
   name = "花岡"
