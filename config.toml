@@ -1,4 +1,4 @@
-baseurl = "hamu_page"
+baseurl = "/"
 title = "hamu_page"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
